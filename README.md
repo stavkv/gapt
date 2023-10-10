@@ -7,7 +7,7 @@ Well using it is really very easy.
 - Change/give Permissions
 - Run the script and Do install/remove/update /upgrade/search what you want to....  ;)
 
-<img src="/asset/Screenshot 2023-10-10 181701.png" alt="APTDEKHO">
+
 
 ```
 $ git clone https://github.com/iampystar/aptdekho.git
