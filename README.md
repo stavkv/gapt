@@ -11,7 +11,7 @@ Well using it is really very easy.
 
 ```
 $ git clone https://github.com/iampystar/aptdekho.git
-$ cd aptdekho
+$ cd aptdekho/
 $ sudo chmod +x aptdekho.sh
 $ ./aptdekho.sh
 ```
