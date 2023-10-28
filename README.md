@@ -1,6 +1,6 @@
 <div align="center">
   
-# aptmanager
+# gapt
 </div>
 <p>⚡ aptmanager is a frontend whiptail menu for APT package manager written in shell.
 </p>
