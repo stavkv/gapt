@@ -20,9 +20,9 @@ Well using it is really very easy.
 
 
 ```
-$ git clone https://github.com/theevilguy/aptdekho.git
-$ cd aptdekho/
-$ sudo chmod +x aptdekho.sh
-$ ./aptdekho.sh
+$ git clone https://github.com/theevilguy/gapy.git
+$ cd gapt/
+$ sudo chmod +x gapt.sh
+$ ./gapt.sh
 ```
 
