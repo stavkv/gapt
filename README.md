@@ -6,7 +6,7 @@
 </p>
 <img src="https://img.shields.io/github/stars/mrvks/gapt?color=e57474&labelColor=1e2528&style=for-the-badge"> <img src="https://img.shields.io/github/issues/mrvks/gapt?color=67b0e8&labelColor=1e2528&style=for-the-badge">
 <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=8ccf7e&labelColor=1e2528&style=for-the-badge">
-<img src="https://img.shields.io/github/forks/mkvks/gapt?color=e5c76b&labelColor=1e2528&style=for-the-badge">
+<img src="https://img.shields.io/github/forks/mrvks/gapt?color=e5c76b&labelColor=1e2528&style=for-the-badge">
 <br>
 
 ## How to use??
