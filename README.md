@@ -4,9 +4,9 @@
 </div>
 <p>⚡ aptmanager is a frontend whiptail menu for APT package manager written in shell.
 </p>
-<img src="https://img.shields.io/github/stars/mrvks/gapt?color=e57474&labelColor=1e2528&style=for-the-badge"> <img src="https://img.shields.io/github/issues/mrvks/gapt?color=67b0e8&labelColor=1e2528&style=for-the-badge">
+<img src="https://img.shields.io/github/stars/soiamvs/gapt?color=e57474&labelColor=1e2528&style=for-the-badge"> <img src="https://img.shields.io/github/issues/soiamvs/gapt?color=67b0e8&labelColor=1e2528&style=for-the-badge">
 <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=8ccf7e&labelColor=1e2528&style=for-the-badge">
-<img src="https://img.shields.io/github/forks/mrvks/gapt?color=e5c76b&labelColor=1e2528&style=for-the-badge">
+<img src="https://img.shields.io/github/forks/soiamvs/gapt?color=e5c76b&labelColor=1e2528&style=for-the-badge">
 <br>
 
 ## How to use??
@@ -20,7 +20,7 @@ Well using it is really very easy.
 
 
 ```
-$ git clone https://github.com/mrvks/gapy.git
+$ git clone https://github.com/soiamvs/gapt.git
 $ cd gapt/
 $ sudo chmod +x gapt.sh
 $ ./gapt.sh
