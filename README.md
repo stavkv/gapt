@@ -20,7 +20,7 @@ Well using it is really very easy.
 
 
 ```
-$ git clone https://github.com/vingh1/gapt.git
+$ git clone https://github.com/vikvss/gapt.git
 $ cd gapt/
 $ sudo chmod +x gapt.sh
 $ ./gapt.sh
